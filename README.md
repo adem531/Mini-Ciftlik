@@ -1,4 +1,3 @@
 # Mini-Ciftlik
+[index.html](https://github.com/user-attachments/files/33720263/index.html)
 
-[server.js](https://github.com/user-attachments/files/33720167/server.js)
-[README.md](https://github.com/user-attachments/files/33720165/README.md)
